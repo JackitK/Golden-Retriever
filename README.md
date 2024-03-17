@@ -1,2 +1,3 @@
 # Golden-Retriever
-A Golden Sun mod where shenanigans ensue. People are turning into dogs other weird things may pop up during your adventures.  (Plays like vanilla Golden Sun after Vault)
+A small Golden Sun 1 mod made for April Fools. Featuring a bunch of silly little changes to fit the holiday.
+Mod only goes up to Vault. The game plays like normal, without any changes, beyond that point.
