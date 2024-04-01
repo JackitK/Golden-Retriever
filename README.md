@@ -3,7 +3,7 @@ A fairly small mod of Golden Sun (goes up to Vault) for April Fools.  In this st
 
 Features:
 - Dogs
-- Some altered NPC dialouge/mind reads to fit the theme.
+- Some altered NPC dialogue/mind reads to fit the theme.
 - "Fun Dog Facts" and other altered book dialogue throughout Vale and Vault
 - Minor changes to enemy encounters up to Vault. Battles aren't more difficult but the changes are enough to be noticeable.
 - Did I mention dogs?
